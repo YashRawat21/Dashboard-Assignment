@@ -1,5 +1,5 @@
 <div align="center"> 
-# Accuknox Dashboard 
+## Accuknox Dashboard 
 </div>
 
 ## **How to install and run locally ?**
